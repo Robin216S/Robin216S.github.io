@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-   background-color: #333333;
+   background-color: #8e7373;
   display: flex;
 }
 
@@ -24,7 +24,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #10c222;
+  background-color: #4c504d;
 }
 
 
