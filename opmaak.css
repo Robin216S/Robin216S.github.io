@@ -1,22 +1,22 @@
 body { 
-  background-color: rgb(222, 29, 86);   /*Dit is de kleur van de achtergrond*/
-}
+  background-color: rgb(222, 29, 86);   
+} /*Dit is de kleur van de achtergrond*/
 
 h1 { 
   color: rgb(242, 247, 245);
   margin-left: 20px;
-}
+} /*Dit is de kleur van de h1 teksten*/
 
 h2 {
 color: black;
 margin-left: 20px;
-}
+} /*Dit is de kleur van de h2 teksten*/
 
 
 h3 {
 color: rgb(255, 255, 255);
 margin-left: 20px;
-}
+} /*Dit is de kleur van de h3 teksten*/
 
 
 ul {
@@ -26,7 +26,7 @@ ul {
   overflow: hidden;
    background-color: #f5f3f200;
   display: flex;
-}
+} /*Dit is de kleur voor de menubalk*/
 
 ul li a {
   display: block;
@@ -35,8 +35,8 @@ ul li a {
   text-decoration: none}
 
 ul li a:hover {
-  background-color: #f8fcf9;
-}
+  background-color: #0d0d0d;
+} /*Als je met je muis over de menubalk gaat dan wordt het woord op de menubalk*/
 
 img {
 margin-left: 25px;
