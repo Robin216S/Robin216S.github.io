@@ -46,7 +46,7 @@ border-radius: 25px;
 /*EXTRA: Margin de afstand tussen een element en een ander element*/
 /*EXTRA: Padding betekent de ruimte tussen het element en de rand van de pagina*/ 
 
-footer {
+.footer {
   position: sticky;
   left: 0;
   bottom: 0px;
